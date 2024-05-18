@@ -29,3 +29,8 @@ This Is A full stack home rental application built with React, Redux, MongoDB, J
 - Express.js
 - MongoDB
 - JWT (JSON Web Tokens)
+
+###Screenshots of project
+
+![Screenshot (403)](https://github.com/parag7923/dream_nest/assets/107569817/c668637f-417c-4995-a7d2-eaa282832b52)
+
